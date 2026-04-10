@@ -42,7 +42,6 @@ Bash
 - Run the development server<br>
 Bash
 - npm run dev
-- Open in browser: http://localhost:3000
 ## Features
 ### Practice Module
 - Coding questions with Easy, Medium, Hard levels
